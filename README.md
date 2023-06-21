@@ -8,3 +8,5 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 gem "github-pages", group: :jekyll_plugins
+
+<a href= "https://nathanytavaresnascimento.github.io/HTML-CSS/EXERC%C3%8DCIOS%2001/EXC.001/index.html"> Exercício 01</a>
